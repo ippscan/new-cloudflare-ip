@@ -1,9 +1,11 @@
 # new-cloudflare-ip
 
-لیست آی پی های تمیز کلادفلر آپدیت شدن
-برای دیدن آی پی های تمیز روی متن ip-cloudflare کلیک کنین و صفحه آی پی ها برای شما نشون داده بشه
+رفقا لیست آی پی هایی جدیدی قرار گرفتن که این آی پی های تست نشدن ، پس احتمال داره وصل بشن یا نشن ، مورد دوم حتما از کار کردن و نحوه ساخت کانفیگتون مطمعن بشین تا احتمال خطا و کار نکردن آی پی تمیز کم بشه
 
-Cloudflare's clean IP list has been updated
-To see clean IPs, click on the ip-cloudflare text and the IPs page will be shown to you
+Comrades, there is a list of new IPs that have not been tested, so it is possible that they will be connected or not. In the second case, make sure that it works and how to make your configuration to reduce the possibility of errors and not working.
 
-![image](https://github.com/ippscan/new-cloudflare-ip/assets/145909737/e6e5a9aa-5825-45d9-9996-432805e89254)
+![Uploading image.png…]()
+
+برای دیدن لیست آی پی ها روی Cloudflare ip list که توی تصویر هم مشاهده میکنین کلیک کنین
+
+To see the list of IPs, click on the Cloudflare ip list that you can see in the image
